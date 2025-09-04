@@ -14,17 +14,17 @@ The dashboard highlights key profitability and sales trends across regions, segm
 - State-wise profitability analysis with interactive filters
 - ![Profit Ratio by Geography](./screenshots/profit%20ratio%20by%20geography.png)
 
-2. **Sales by Category**
+2. **Monthly Sales by Category**
 - Furniture, Office Supplies, and Technology trends across states
-- ![Sales by Category](
+- ![Sales by Category](./screenshots/Monthly%20Sales%20by%20category-%20state-%20all.png)
 
-3. **Sales by Segment**
+3. **Monthly Sales by Segment**
 - Consumer, Corporate, and Home Office performance over time
-- ![Sales by Segment](
+- ![Sales by Segment](./screenshots/Monthly%20Sales%20by%20segment-%20state-%20all.png)
 
 4. **Executive Profitability**
 - Sales, Profit, Profit Ratio, Profit per Order, Sales per Customer, Avg. Discount, and Quantity
-- ![Executive Profitability](
+- ![Executive Profitability](./screenshot/Executive%20overview-%20profitability.png)
 
 5. **Profit Ratio by City**
 - City-wise profitability analysis with interactive filters
