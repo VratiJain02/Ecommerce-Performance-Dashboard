@@ -9,27 +9,27 @@ The dashboard highlights key profitability and sales trends across regions, segm
 
 ### Key Features
 1. **Profit Ratio by Geography**
-- State-wise profitability analysis with interactive filters
+  - State-wise profitability analysis with interactive filters
   ![Profit Ratio by Geography](./screenshots/Profit%20ratio%20by%20geography.png)
 
 
 2. **Monthly Sales by Category**
-- Furniture, Office Supplies, and Technology trends across states
+  - Furniture, Office Supplies, and Technology trends across states
   ![Sales by Category](./screenshots/Monthly%20Sales%20by%20category-%20state-%20all.png)
 
 
 3. **Monthly Sales by Segment**
-- Consumer, Corporate, and Home Office performance over time
+  - Consumer, Corporate, and Home Office performance over time
   ![Sales by Segment](./screenshots/Monthly%20Sales%20by%20segment-state-all.png)
 
 
 4. **Executive Profitability**
-- Sales, Profit, Profit Ratio, Profit per Order, Sales per Customer, Avg. Discount, and Quantity
+  - Sales, Profit, Profit Ratio, Profit per Order, Sales per Customer, Avg. Discount, and Quantity
   ![Executive Profitability](./screenshots/Executive%20overview-%20profitability%20all.png)
 
 
 5. **Profit Ratio by City**
-- City-wise profitability analysis with interactive filters
+  - City-wise profitability analysis with interactive filters
   ![Profit Ratio by Cityy](./screenshots/Profit%20ratio%20by%20city.png)
  
 
@@ -41,7 +41,7 @@ The dashboard highlights key profitability and sales trends across regions, segm
 
 ---
 ## 📷 Dashboard Previews
-  ![Executive Overview](./screenshots/Executive%20Overview.png)
+    ![Executive Overview](./screenshots/Executive%20Overview.png)
 
 ## 🎯 Learning Outcome
 This was my **first Tableau project**, where I learned:
